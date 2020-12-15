@@ -1,4 +1,4 @@
-# WeatherServiceApp
+# Weather Application
 
 Predict Tomorrow's coolest hour of the day
 
